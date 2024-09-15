@@ -1,4 +1,6 @@
 # Habit Tracker - Reto Oracle Hack MTY 2024
+Link: https://apex.oracle.com/pls/apex/r/gitgudhackmty/hackapphabittracker/recover-home-page?session=108323453819749
+Credenciales: DIEGO_GARCIA 1020Gg1020
 
 ## Descripción
 
