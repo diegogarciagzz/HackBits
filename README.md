@@ -2,7 +2,7 @@
 Link: https://apex.oracle.com/pls/apex/r/gitgudhackmty/hackapphabittracker/recover-home-page?session=108323453819749
 Credenciales: DIEGO_GARCIA 1020Gg1020
 https://hackbits.my.canva.site/
-
+Link video: https://youtu.be/I4FWwSvrbvg
 
 ## Descripción
 
